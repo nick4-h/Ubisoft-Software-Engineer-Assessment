@@ -1,0 +1,7 @@
+{
+    "LOGS_FOLDER": "./tests/resources/r6_logs/",
+    "REPORT_FOLDER": "./tests/resources/reports/",
+    "N_DAYS": 7,
+    "TOP_N_OPERATOR_KILLS": 100,
+    "TOP_N_PLAYERS": 10
+  }
